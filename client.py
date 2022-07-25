@@ -114,7 +114,7 @@ for i in range(10):
 
 '''WLAN starten, falls noch nicht verbunden
    esp8266 merkt sich die einstellungen'''
-WiFi_SSID, WiFi_PW= "dk2jk","dk2jk X1"
+WiFi_SSID, WiFi_PW= "xxxx","xxxxxxx"
 
 ''' acces point deactivieren'''
 ap = network.WLAN(network.AP_IF)
