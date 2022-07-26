@@ -2,5 +2,6 @@
 <img src="https://github.com/dk2jk/wetterstation-ESP8266/blob/c382a3d96e2ec34433df800c4dacb2cbf19d33a0/doc/Bildschirmfoto.png" width="200" heigth="200">
 
 
-Wetterstation mit ESP-Modul + BME280-Modul 
+Wetterstation mit ESP-Modul + BME280-Modul
+
 Datentransfer via ThinkSpeak
